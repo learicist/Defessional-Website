@@ -1,0 +1,35 @@
+#titleCard {
+	background-image: url("https://www.freedomfromtorture.org/sites/default/files/styles/constrained_hero_large/public/images/2020-02/DSC_0738.JPG?h=de889dbf&itok=y-66dP2D");
+	background-size: 100% auto;
+}
+
+#title {
+	text-align:center;
+	color: black;
+	background-color: tan;
+}
+
+#navbar {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 2%;
+	border-radius: 10px;
+}
+
+.nav {
+	text-align: center;
+	font-size: 20px;
+	background-color: tan;
+	margin: 5%;
+	border-radius: 15px;
+	padding: 5px 10px;
+}	
+
+
+
+
+
+
+
+
+
